@@ -1,0 +1,10 @@
+.ApiData{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.box{
+  margin:auto;
+  border: grey 1px solid;
+  min-width:400px  ;
+}
